@@ -1,0 +1,7 @@
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\bin\Debug\07.08.exe.config
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\bin\Debug\07.08.exe
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\bin\Debug\07.08.pdb
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\obj\Debug\tp02.csproj.AssemblyReference.cache
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\obj\Debug\tp02.csproj.CoreCompileInputs.cache
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\obj\Debug\07.08.exe
+D:\pasta faculdade\IFSP-ED1I4-master\07.08\07.08\obj\Debug\07.08.pdb
